@@ -1,0 +1,78 @@
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+ <body>
+  <body bgcolor="white"
+      <div class="section-title text-center center">
+       <div align="center"> <h1><strong>Self-introduction</strong></h1>
+        <hr>
+      </div>
+   <div class="container" class="half" style="display:flex">
+   <figure class="half" style="display:flex">
+      <div class="row">
+     <div align="center"> <img src="../微信图片_20230306221532.jpg"height="400"width="300">
+        <div class="col-md-6">
+<p>Hello this is Sunny,
+I am student of ICT, i am glad to meet you all here.</p>
+<ul style="list-style-type:disc">
+ <li>Like playing games</li>
+ <li>Like sports</li>
+ <li>Obtaining computer second-level certificate</li>
+</ul>  
+<h3>Logo</h3>
+<img src="../logo.png"height="400"width="300">
+<img src="../logo2.png"height="400"width="300">
+<title>self introdution</title>
+</head>
+<table border="1" align="center" cellpadding="10" width="800">
+<tr>
+<th colspan="7" bgcolor="BurlyWood" >self introdution</th>
+</tr>
+<tr>
+<th bgcolor="BurlyWood">name:</th>
+<td> Sunny</td>
+<th bgcolor="BurlyWood">age:</th>
+<td>20</td>
+<td rowspan="3" width="100"<p><img src="../微信图片_20230306221532.jpg"height="150"width="100">
+</a></p></td>
+</tr>
+<tr>
+<th bgcolor="BurlyWood">date of birth:</th>
+<td>20021030</td>
+</tr>
+<tr>
+<th bgcolor="BurlyWood">specialized subject:</th>
+<td>Computer application technology</td>
+<th bgcolor="BurlyWood">E-mail:</th>
+<td>2429679273@qq.com</td>
+</tr>
+<tr>
+<th bgcolor="BurlyWood">hobby:</th>
+<td>Watch movies and play games</td>
+<th bgcolor="BurlyWood">birthplace:</th>
+<td>Zhejiang Jiaxing</td>
+</tr>
+<tr>
+<th height="160" bgcolor="BurlyWood">Personal Specialty:</th>
+<td colspan="6">
+<p>Familiar with various languages and programming, including VC++programming and Java language programming, familiar with various image viewing tools, and know how to modify pictures with Photoshop. Familiar with Microsoft office software, especially the operation and application of Word and Excel.</p>
+</td>
+</tr>
+<tr>
+<th height="160" bgcolor="BurlyWood"> achievement:</th>
+<td colspan="6">
+<p>Obtaining computer second-level certificate</p>
+<p>Obtained English Level A Certificate</p>
+</tr>
+</table>
+
+<h2><div align="center">Customer Relationship Management</div></h2>
+<p>Definition
+</p>
+<p>In order to improve the core competitiveness, enterprises use the corresponding information technology and Internet technology to coordinate the interaction between enterprises and customers in sales, 
+	marketing and service, so as to improve their management methods and provide customers with innovative and personalized customer interaction and service process. Its ultimate goal is to attract new customers,
+	 retain old customers, turn existing customers into loyal customers and increase the market.</p>
+<div align="center"><img src="../crm.jpg"height="400"width="400">
+</body>
+</html>
