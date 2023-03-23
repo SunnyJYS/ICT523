@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+<style>
+body {font-size: 28px;}
+body {
+  background-color: lightyellow;
+}
+ul { list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff9900;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;}
+
+li {float: left;}
+
+li a {display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;}
+
+li a:hover {background-color: #111;}
+
+.active { background-color: #4CAF50;}
+</style>
+</head>
+
+<div class="header">
+  <h2><div align="center">my website</div></h2>
+  <div align="center" ><img src="微信图片_20230323125813.jpg" width="100" height="100"> </div>
+
+<ul>
+  <li><a class="active" href="http://127.0.0.1:8020/HelloHBuilder/1/1/j/9.html?__hbt=1679552710294#contact">self-introduction</a></li>
+  <li><a href="http://127.0.0.1:8020/HelloHBuilder/1/1/j/10.html?__hbt=1679552154585">Picture Gallery</a></li>
+  <li><a href="http://127.0.0.1:8020/HelloHBuilder/1/1/j/11.html?__hbt=1679556821494">Storyboard and Flow Chart</a></li>
+</ul>
+</head>
+<table border="1" align="center" cellpadding="10" width="800">
+<tr>
+<th colspan="7" bgcolor="BurlyWood" >self introdution</th>
+</tr>
+<tr>
+<th bgcolor="BurlyWood">name:</th>
+<td> Sunny</td>
+<tr>
+<th bgcolor="BurlyWood">specialized subject:</th>
+<td>Computer application technology</td>
+<th bgcolor="BurlyWood">E-mail:</th>
+<td>2429679273@qq.com</td>
+</tr>
+<tr>
+<th bgcolor="BurlyWood">hobby:</th>
+<td>Watch movies and play games</td>
+<th bgcolor="BurlyWood">birthplace:</th>
+<td>Zhejiang Jiaxing</td>
+</tr>
+
+<div align="center"><h3>self introduction</h3></div>
+<div align="center"> <img src="微信图片_20230306221532.jpg"height="200"width="150"> </div>
+
+<p>I have an optimistic and outgoing personality, a strong sense of principle, a strong guard against arrogance and rashness,
+and a relatively calm personality. I am conscientious and responsible for my work, good at organizing teams, making plans, 
+and achieving goals. I have strong analytical skills, can adapt to fast-paced work, and have strong practical experience and operational skills.</p>
+<p>Proficient in multimedia software such as Photoshop, CorelDRAW, Dreamweaver, PHP, Premiere, Flash, and Huisheng Huiying,
+and skilled in using network resources; Proficient in using Office software, mastering computer network skills, and having
+a good foundation in computer hardware.</p>
+</body>
+</html>
